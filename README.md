@@ -4,6 +4,8 @@
 
 A comprehensive multi-agent AI system that automates the analysis and processing of user feedback from various channels including app store reviews and customer support emails. The system uses CrewAI for agent orchestration and Streamlit for an intuitive user interface.
 
+📝 Note: This project uses mock data for demonstration purposes. The CSV files contain sample app store reviews and support emails that are not from real users or applications. This allows for safe testing and development without privacy concerns.
+
 ### Business Problem
 
 Modern SaaS and app-based companies receive dozens of user reviews and feedback daily from multiple channels. The current manual triaging process is slow, inconsistent, and doesn't scale effectively, resulting in:
