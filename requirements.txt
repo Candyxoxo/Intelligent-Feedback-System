@@ -1,0 +1,10 @@
+crewai
+python-dotenv 
+pandas 
+numpy 
+matplotlib 
+seaborn
+scikit-learn
+streamlit 
+plotly
+google.generativeai

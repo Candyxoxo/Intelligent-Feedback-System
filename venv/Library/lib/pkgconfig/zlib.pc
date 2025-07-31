@@ -1,0 +1,13 @@
+prefix=D:/Agentic_AI/ticket_from_data/venv/Library
+exec_prefix=D:/Agentic_AI/ticket_from_data/venv/Library
+libdir=D:/Agentic_AI/ticket_from_data/venv/Library/lib
+sharedlibdir=D:/Agentic_AI/ticket_from_data/venv/Library/lib
+includedir=D:/Agentic_AI/ticket_from_data/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

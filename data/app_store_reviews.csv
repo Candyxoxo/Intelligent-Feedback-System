@@ -1,0 +1,71 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,"Check out this amazing crypto deal at coinmaster.scam - get 1000 free tokens now! Click here!",spambot_99,2025-06-29,1.8.2
+R002,Google Play,2,"I've been trying to reach customer support for 3 weeks about my billing issue. No response at all. Very disappointed with the service quality.",frustrated_user,2025-07-15,4.8.4
+R003,Google Play,1,"The data sync feature completely stopped working after the latest update. None of my documents are syncing between my phone and tablet anymore. This is critical for my work.",productivity_pro,2025-07-07,4.0.4
+R004,App Store,1,"I can't access any of my synced data since yesterday. The app shows 'sync failed' error constantly. Lost hours of work because of this.",emma_designer,2025-07-08,1.5.6
+R005,Google Play,4,"Really loving the new collaboration feature you added! Makes sharing documents with my team so much easier. Great job!",team_leader_21,2025-07-02,3.1.8
+R006,Google Play,1,"App won't let me login after the 4.8.4 update. Keeps saying 'invalid credentials' even though I'm using the same password. Can't access my account at all.",user_since_2020,2025-07-18,2.0.8
+R007,App Store,2,"My files aren't syncing properly between devices. Sometimes they sync, sometimes they don't. Very unreliable for professional use.",consultant_mike,2025-07-11,2.1.2
+R008,Google Play,4,"This app has transformed my workflow! The document management features are exactly what I needed. Highly recommend for anyone in content creation.",content_creator_sara,2025-07-14,4.1.1
+R009,Google Play,3,"The app is good but really needs an export feature. I can't get my data out in standard formats like PDF or Word. This is a dealbreaker for many users.",business_analyst,2025-07-11,3.7.4
+R010,Google Play,1,"CRITICAL BUG: All my project files disappeared after sync. Three months of work gone. This needs immediate attention!",project_manager_emma,2025-07-17,4.5.7
+R011,Google Play,3,"Please add bulk export functionality. Having to export files one by one is incredibly time-consuming when you have hundreds of documents.",freelancer_michael,2025-06-23,2.8.5
+R012,Google Play,1,"$29.99/month is way too expensive for what this app offers. Competitors provide similar features for half the price. Not worth it.",budget_conscious_user,2025-06-30,2.3.0
+R013,App Store,4,"Would be perfect if you added Touch ID support. Having to type password every time is annoying. Otherwise great app!",security_minded,2025-06-28,2.7.7
+R014,App Store,1,"App crashes immediately when I tap on Settings. Can't change any preferences or configure anything. Makes the app unusable.",tech_enthusiast,2025-07-06,2.6.9
+R015,App Store,1,"asdkjfh aslkdjf 123!@# random nonsense text here blah blah",fake_account_123,2025-06-24,3.5.2
+R016,Google Play,1,"qwerty12345 zxcvbnm asdfgh random keyboard mashing text",spam_user_456,2025-07-12,4.0.7
+R017,App Store,3,"Dark mode would be a game-changer for this app. My eyes get strained during long work sessions. Please consider adding this feature!",night_owl_designer,2025-07-21,4.9.3
+R018,Google Play,3,"Biometric login would make this app much more secure and convenient. Face ID or fingerprint unlock would be great additions.",security_pro,2025-07-14,1.1.4
+R019,Google Play,2,"Customer service is terrible. Took 2 weeks to get a response to my technical issue, and the solution didn't even work.",michael_disappointed,2025-06-22,1.2.5
+R020,Google Play,1,"Visit BitcoinBonus.fake for unlimited cryptocurrency rewards! Get rich quick with our proven system!",crypto_scammer,2025-06-25,2.7.2
+R021,App Store,1,"The app has become incredibly slow since the last update. Takes 30+ seconds to load documents. Completely unusable for daily work.",impatient_professional,2025-07-11,2.9.1
+R022,App Store,3,"Dark theme would really help with eye strain during late-night work sessions. Current white interface is too bright.",night_shift_worker,2025-06-26,3.5.5
+R023,Google Play,1,"Login broken after latest update. Shows 'authentication error' every time I try to sign in. Need this fixed ASAP.",john_urgent,2025-06-28,3.9.1
+R024,Google Play,3,"Please add a dark mode option! Would make the app much more comfortable to use in low light conditions.",ui_enthusiast,2025-07-18,2.1.7
+R025,App Store,1,"FREE MONEY AT CASHLUCKY.SCAM!!! Win $10000 instantly! Click now before offer expires!!!",gambling_spam,2025-06-21,3.0.5
+R026,App Store,4,"App works flawlessly! No crashes, no bugs, sync is perfect. Couldn't ask for better reliability in a productivity app.",satisfied_customer,2025-07-10,2.7.4
+R027,App Store,1,"Performance has degraded significantly. App freezes constantly, takes forever to respond to touches. Nearly unusable now.",performance_critic,2025-07-03,4.7.6
+R028,App Store,4,"Absolutely love this app! Has everything I need for document management and collaboration. Best productivity app I've used.",happy_user,2025-07-10,1.3.4
+R029,App Store,2,"Sync issues persist. My edits on phone don't appear on desktop and vice versa. Really frustrating for collaborative work.",sync_troubled,2025-06-27,4.1.2
+R030,App Store,4,"App is great but desperately needs export to PDF/Word formats. This missing feature prevents me from fully adopting it.",format_dependent,2025-07-16,2.4.9
+R031,Google Play,1,"Amazing deals at FREECOINS.SCAM - get 50000 coins instantly! Limited time offer!",coin_spammer,2025-07-11,3.3.1
+R032,Google Play,3,"Dark mode would be a welcome addition. Current bright theme is hard on the eyes during extended use.",accessibility_user,2025-07-18,1.0.8
+R033,App Store,2,"App is getting slower with each update. Loading times have increased dramatically. Please optimize performance.",speed_seeker,2025-07-06,3.3.1
+R034,Google Play,2,"Data synchronization is unreliable. Sometimes works, sometimes doesn't. Can't rely on it for important work documents.",reliability_concerned,2025-07-21,3.0.1
+R035,Google Play,5,"Perfect app! Rock solid stability, great features, excellent user interface. Everything works exactly as expected.",five_star_fan,2025-07-16,3.4.6
+R036,App Store,1,"Support team is unresponsive. Submitted bug report 3 weeks ago, still no acknowledgment. Poor customer service.",support_seeker,2025-06-24,1.7.1
+R037,Google Play,4,"Really impressed with the functionality and ease of use. This app has made my work so much more efficient!",efficiency_expert,2025-07-08,2.4.8
+R038,Google Play,5,"Couldn't be happier with this app! Stable, fast, feature-rich. Sets the standard for productivity applications.",emma_advocate,2025-07-03,1.5.8
+R039,App Store,3,"Would love to see a dark theme option. Current light theme causes eye fatigue during long working sessions.",ergonomics_aware,2025-06-25,3.6.2
+R040,App Store,4,"Fingerprint authentication would be a great security enhancement. Password entry gets tedious with frequent use.",biometric_fan,2025-07-16,1.0.6
+R041,App Store,2,"Sync functionality is broken on iOS devices. Documents don't update across my devices reliably.",ios_user_frustrated,2025-06-24,1.6.1
+R042,Google Play,4,"The new sharing feature is fantastic! Makes collaboration with colleagues so much smoother. Great update!",collaboration_enthusiast,2025-06-26,4.2.4
+R043,Google Play,1,"lkjasdf 98234 random !@#$ nonsense keyboard mashing spam content here",random_spammer,2025-07-02,2.9.9
+R044,App Store,1,"zxcvbnm qwerty 123456 asdfgh random meaningless text spam",gibberish_account,2025-07-06,4.6.0
+R045,Google Play,1,"Check out DEALFINDER.SCAM for incredible savings on everything! Limited time offers!",deal_spammer,2025-07-17,4.5.2
+R046,Google Play,3,"Biometric authentication support would greatly improve user experience. Please consider adding Touch ID/Face ID login.",biometric_advocate,2025-07-04,1.5.0
+R047,Google Play,1,"App performance has become terrible. Constant lag, slow loading, frequent freezes. Almost unusable now.",performance_annoyed,2025-07-03,1.7.6
+R048,Google Play,1,"Cannot log into my account since the 1.9.1 update. Authentication system seems completely broken.",login_locked_out,2025-06-30,1.9.1
+R049,Google Play,1,"Customer support is non-existent. Multiple emails ignored, no help with critical issues. Very disappointing service.",service_frustrated,2025-06-26,2.0.6
+R050,Google Play,2,"Document sync is hit-or-miss. Sometimes my changes save across devices, sometimes they don't. Unreliable.",sync_skeptical,2025-06-29,1.7.5
+R051,Google Play,2,"Cross-device synchronization fails frequently. My work documents don't stay updated between phone and computer.",cross_platform_user,2025-07-08,1.0.0
+R052,Google Play,2,"Login system broke after latest update. Can't access my account despite correct credentials.",access_denied,2025-07-01,1.3.7
+R053,App Store,1,"asdfgh zxcvbn 098765 random spam text here !@#$%",nonsense_poster,2025-07-10,2.9.3
+R054,App Store,2,"Settings menu crashes the app every time I try to open it. Can't configure anything, very frustrating.",settings_stuck,2025-07-06,2.4.8
+R055,Google Play,1,"WIN BIG AT LOTTERY.SCAM! Guaranteed jackpot winners! Click now for instant wealth!",lottery_spam,2025-06-27,1.3.8
+R056,Google Play,1,"FREE GIFT CARDS at REWARDS.FAKE! Get Amazon, Apple, Google Play cards instantly!",giftcard_scam,2025-07-07,3.0.5
+R057,Google Play,2,"App has become sluggish and unresponsive. Takes forever to perform basic operations. Needs performance optimization.",sluggish_experience,2025-07-11,1.3.4
+R058,Google Play,4,"Dark mode implementation would be amazing! Current bright interface is hard to use in dark environments.",dark_mode_requester,2025-07-05,4.5.0
+R059,App Store,3,"Touch ID support would make login so much more convenient. Current password system is cumbersome for frequent access.",touchid_hopeful,2025-07-11,3.4.1
+R060,Google Play,3,"Really need bulk export functionality. Exporting documents individually is very time-consuming for large projects.",bulk_export_needed,2025-07-05,2.3.1
+R061,App Store,5,"Outstanding app! Reliable, feature-complete, excellent user experience. This is how productivity apps should be built.",excellence_appreciator,2025-07-16,4.7.6
+R062,Google Play,4,"Dark theme would be the perfect addition to an already great app. Please consider this for future updates!",theme_enthusiast,2025-07-02,1.3.9
+R063,App Store,2,"Customer service quality is poor. Slow responses, unhelpful solutions. Need better support for premium users.",premium_disappointed,2025-07-12,1.9.3
+R064,App Store,2,"Sync problems continue to plague this app. My documents don't stay consistent across my devices.",multi_device_user,2025-06-28,3.5.7
+R065,App Store,2,"File synchronization is unreliable between my iPhone and Mac. Often have to manually re-sync everything.",apple_ecosystem_user,2025-07-10,3.8.5
+R066,App Store,2,"App crashes whenever I try to access settings. Can't customize anything or change preferences.",settings_crasher,2025-06-22,4.0.1
+R067,Google Play,1,"AMAZING OFFERS at DEALS.SCAM! Save 90% on everything! Limited time only!",savings_spammer,2025-07-16,2.1.3
+R068,App Store,1,"Performance degradation is severe. App barely responds, constant freezing. Quality has really declined.",quality_decliner,2025-07-20,1.1.2
+R069,App Store,1,"Visit FREEBIES.FAKE for unlimited free products! No catch, completely free!",freebie_scammer,2025-06-28,1.9.3
+R070,Google Play,2,"Settings screen causes immediate app crash. Cannot configure any preferences or options.",configuration_blocked,2025-07-16,1.6.0
